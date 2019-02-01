@@ -4,7 +4,7 @@ setup(
     name                 = 'py-nltools',
     version              = '0.3.3',
     description          = 'A collection of basic python modules for spoken natural language processing',
-    long_description     = open('README.md').read(),
+    long_description     = 'FIXME', #open('README.md').read(),
     author               = 'Guenter Bartsch',
     author_email         = 'guenter@zamia.org',
     maintainer           = 'Guenter Bartsch',
