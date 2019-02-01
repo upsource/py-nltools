@@ -25,3 +25,6 @@ README.xml
 build
 dist
 py_nltools.egg-info
+
+#IntelliJ IDEA
+.idea/
