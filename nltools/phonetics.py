@@ -24,7 +24,7 @@
 # ( IPA, XSAMPA, MARY, ESPEAK )
 #
 
-MAX_PHONEME_LENGTH = 2
+MAX_PHONEME_LENGTH = 3
 
 big_phoneme_table = [
 
@@ -142,7 +142,8 @@ big_phoneme_table = [
 
         #TEST TODO
         ( u'aː' , 'a:' , '', '' ),
-        ( u'ãː' , 'ã:' , '', '' ),
+        ( u'ã' , 'a~' , '', '' ),
+        ( u'ãː' , 'ã~:' , '', '' ),
         ( u'ɑː' , 'A:' , '', '' ),
         ( u'ɐ̯' , '6_^' , '', '' ),
         ( u'ɑ̃' , 'A~' , '', '' ),
